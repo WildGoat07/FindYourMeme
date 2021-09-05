@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindYourMeme", "FindYourMeme.csproj", "{EBBDA9E7-3DBD-431A-A486-31722D3F05BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBBDA9E7-3DBD-431A-A486-31722D3F05BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBBDA9E7-3DBD-431A-A486-31722D3F05BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBBDA9E7-3DBD-431A-A486-31722D3F05BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBBDA9E7-3DBD-431A-A486-31722D3F05BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A5F6411-4705-416D-993F-B582F42ED800}
+	EndGlobalSection
+EndGlobal
