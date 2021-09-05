@@ -11,6 +11,8 @@
         mc:Ignorable="d"
         Title="FindYourMeme"
         Height="400"
+        MinWidth="310"
+        MinHeight="200"
         Width="530"
         WindowStyle="None"
         AllowsTransparency="True"
