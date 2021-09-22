@@ -18,7 +18,8 @@
         AllowsTransparency="True"
         Background="Transparent"
         Icon="/icon.ico"
-        UseLayoutRounding="True">
+        UseLayoutRounding="True"
+        FocusManager.FocusedElement="{Binding ElementName=search}">
     <Window.CommandBindings>
         <CommandBinding
             Command="{x:Static local:MainWindow.ShowWindowCommand}"
@@ -233,6 +234,7 @@
                             VerticalAlignment="Center"
                             Orientation="Horizontal">
                             <TextBox
+                                Name="search"
                                 PreviewKeyDown="TextBox_PreviewKeyDown"
                                 FontFamily="Calibri"
                                 Tag="Find your meme..."
